@@ -28,7 +28,7 @@ h2 {
   font-size: 64px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -203,12 +203,8 @@ footer .email-link:hover {
     font-size: 44px;
   }
 
-  h4 {
+  h3 {
     font-size: 26px;
-  }
-
-  .hero {
-    padding: 80px 20px;
   }
 
   .project-description {

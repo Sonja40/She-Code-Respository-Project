@@ -23,9 +23,15 @@ h1 {
   font-size: 96px;
 }
 
+h2 {
+  font-size: 64px;
+}
+
 p {
   font-weight: normal;
-  color: #6f42c1;
+  color: #272142;
+  font-size: 16px;
+  line-height: 1.7;
 }
 
 .hero {
@@ -52,6 +58,15 @@ p {
   background: var(--branding-color);
   border-radius: 4px;
   color: aliceblue;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
+
+.btn-branding-outline {
+  color: var(--branding-color);
+  border: 1px solid var(--branding-color);
+  border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
   padding: 15px 30px;
